@@ -62,10 +62,10 @@ Amount here referes to Price * Volume, Apple has the highest amount followed by 
 - Johansen Co-integration test revealed that long term forecasting can be made with the data
 
 #### Waveform Visualization of Data:
-
+![VARMAX out 2](https://user-images.githubusercontent.com/47745543/83326390-47fde280-a291-11ea-9933-f16698455b46.JPG)
 
 #### VARMAX Model Output: Prediction vs Actual
-
+![VARMAX out 1](https://user-images.githubusercontent.com/47745543/83326395-53510e00-a291-11ea-80d8-81d524be01cd.JPG)
 
 #### Forecasting with RNN-LSTM Model:
 - Data was made stationary & was scaled to suit the RNN-LSTM model
@@ -73,10 +73,10 @@ Amount here referes to Price * Volume, Apple has the highest amount followed by 
 - With 70 units RNN-LSTM model was created
 
 #### Loss Function Curve of RNN-LSTM Model
-
+![LOSS CURVE RNN](https://user-images.githubusercontent.com/47745543/83326410-7380cd00-a291-11ea-9493-eb71ec31bbe0.JPG)
 
 ### Comparison Analysis
-RNN-LSTM gives the best forecast, followed by VARMAX Model.
-
+RNN-LSTM gives the best forecast, followed by VAR Model.
+![Comaprison ML   RNN](https://user-images.githubusercontent.com/47745543/83326424-86939d00-a291-11ea-9458-1f1f1c534e1d.JPG)
 
 
