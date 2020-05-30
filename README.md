@@ -1,8 +1,8 @@
-## Stock Market Analysis: Time Series Forecasting with ML Methods & RNN-LSTM algorithm
+## Stock Market Analysis: Time Series Forecasting with ML Methods & RNN-LSTM Model
 
 ### Objective:
-- To identify the trends & insights from the data
-- To use the traditional multivariate ML methods for forecasting
+- To identify trends & insights from the data
+- To use traditional multivariate ML methods for forecasting
 - To implement RNN-LSTM algorithm to forecast the trends
 - To compare the results of ML methods vis-a-vis RNN-LSTM algorithm
 
