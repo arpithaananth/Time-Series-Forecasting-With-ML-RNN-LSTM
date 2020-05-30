@@ -8,10 +8,10 @@
 
 ### About the Dataset: 
 Stock Market Dataset has been obtained from Data World.
-Date Pulled: 08/29/2017 11:30pm
-Total Snapshots per Index: 2,083
-First Date Captured: September 2, 1977
-Last Date Captured: August 29, 2017
+- Date Pulled: 08/29/2017 11:30pm
+- Total Snapshots per Index: 2,083
+- First Date Captured: September 2, 1977
+- Last Date Captured: August 29, 2017
 
 ### A Brief Introduction about the Dataset:
 The stock market is a large indicator of the health of the economy. Understanding the stock market, helps in predicting its trends. For this study, Nasdaq, Dow Jones, and S&P 500 market indexes are examined.
