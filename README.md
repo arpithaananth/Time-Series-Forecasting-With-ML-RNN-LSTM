@@ -40,7 +40,7 @@ Walmart has the highest number of employees
 
 #### Volume Analysis of Companies
 Apple has the highest volume, followed by General Electric 
-![Volume Analysis of Comapnies](https://user-images.githubusercontent.com/47745543/83325438-ceaec180-a289-11ea-8eff-079d3b7185a2.JPG)
+![Volume Analysis of Comapnies](https://user-images.githubusercontent.com/47745543/83327033-76ca8780-a296-11ea-86a9-30c0f6411a2b.JPG)
 
 #### Top 15 Companies based on Amount
 Amount here referes to Price * Volume, Apple has the highest amount followed by JPMorgan Chase
